@@ -8,6 +8,42 @@
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi5sNTXpsTzAhXc_rsIHaInBuUQFnoECA0QAQ&url=https%3A%2F%2Fdeveloper.android.com%2Fstudio&usg=AOvVaw3fIlahucURgOEYHHhVdQuW" target="_blank"> <img src="https://i.postimg.cc/wMgW67VC/android-studio.png" alt="android studio" width="80" height="80"/> </a>
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-zOjrpsTzAhVLhP0HHdL5BuIQFnoECAgQAQ&url=https%3A%2F%2Fwww.jetbrains.com%2Fidea%2F&usg=AOvVaw1dUbYp3QZeAgvbt0Z6D1Zw" target="_blank"> <img src="https://i.postimg.cc/brwQCbLw/intelij-idea.png" alt="Intelij Idea" width="80" height="80"/> </a>
 
+<h2>📱 Android projects</h2>
+<aside class="o-link-list">
+  <div class="o-link-list__aside-title"><h3>New to old:</h3></div>
+  <ul class="o-link-list__item-container" >
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Product-list">Product list</a></li>
+    <dt class="o-link-list__item">Mobile lab in BSUIR (in progress)<br>
+    With: Kotlin, Realm, Hilt, Navigation, Coroutines, Retrofit, Google Map API</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Crypto">Crypto</a></li>
+    <dt class="o-link-list__item">Program for tracking the rate of cryptocurrencies (in progress)<br>
+    With: Kotlin, Room, Koin, Navigation, Coroutines, Retrofit</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Feed-the-cat">Feed the cat</a></li>
+    <dt class="o-link-list__item">Mobile lab in BSUIR<br>
+    With: Kotlin, Koin, Room, Navigation, Coroutines </dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Clock">Clock</a></li>
+    <dt class="o-link-list__item">Default application rewritten on Compose. (unfinished)<br>
+    With: Kotlin, Compose</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Chords">Chords</a></li>
+    <dt class="o-link-list__item">Program to learn chords for guitar. 
+    <a href="https://play.google.com/store/apps/details?id=com.breaktime.chords"><i>in google play</i></a><br>
+    With: Java <br></dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/OOP_PROJECT">Tracker (OOP project in university)</a></li>
+    <dt class="o-link-list__item">Phone send signals to the computer and computer change sound, stop or resume music or film<br>
+    With: Java</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Programming_quiz">Programming quiz</a></li>
+    <dt class="o-link-list__item">Programming language quiz program<br>
+    With: Java</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/counting">Fast counting</a></li>
+    <dt class="o-link-list__item">Application for fast counting. 
+    <a href="https://play.google.com/store/apps/details?id=com.counting.breaktime"><i>in google play</i></a><br>
+    With: Java <br></dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/counting">Fast counting</a> </li>
+    <dt class="o-link-list__item">Application for learning English words. 
+    <a href="https://play.google.com/store/apps/details?id=com.breaktime.englishwords"><i>in google play</i></a><br>
+    With: Java <br></dt>
+  </ul>
+</aside>
 
 <h2>📚 Education</h2>
 <h3><img src="https://www.bsuir.by/m/12_100229_0_79523.jpg" height="20"/> Belarusian State University of Informatics and Radioelectronics</h3>
@@ -15,15 +51,18 @@
 <aside class="o-link-list">
   <div class="o-link-list__aside-title">Course works:</div>
   <ul class="o-link-list__item-container" >
-    <li><a class="o-link-list__item" href="#">Fast counting</a></li>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/counting">Fast counting</a></li>
     <dt class="o-link-list__item">Android application for fast counting. <br>
     With: Java</dt>
-    <li><a class="o-link-list__item" href="#">Minecraft</a></li>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Course-work-Minecraft">Minecraft</a></li>
     <dt class="o-link-list__item">Desktop voxel game. <br>
     With: C++, OpenGL</dt>
-    <li><a class="o-link-list__item" href="#">Remote desktop</a></li>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/remote-desktop">Remote desktop</a></li>
     <dt class="o-link-list__item">Desktop program for access with another desktop via LAN. <br>
     With: Kotlin, Jetpack Compose</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Checkers">Checkers</a></li>
+    <dt class="o-link-list__item">Desktop checkers game. <br>
+    With: C++, WinApi</dt>
     ...
   </ul>
 </aside>
@@ -57,6 +96,6 @@
 <h2>🔗 Connect with me</h2>
 <a href="https://https://t.me/eliseybg" target="blank"><img align="center" src="https://i.postimg.cc/tTyd68xP/telegram.png" alt="telegram" height="30" width="30" /></a>
 &nbsp;&nbsp;<a href="https://linkedin.com/in/eliseybg" target="blank"><img align="center" src="https://i.postimg.cc/3r11Xr9w/linkedin.png" alt="linkedin" height="30" width="30" /></a>
-&nbsp;&nbsp;<a href="https://instagram.com/elisey_budnitsky" target="blank"><img align="center" src="https://i.postimg.cc/FRgZnh4D/instagram.png" alt="instagram" height="30" width="30" /></a>
-&nbsp;&nbsp;<a href="https://www.reddit.com/user/Ok_Maize_1666" target="blank"><img align="center" src="https://i.postimg.cc/TPnqpTpf/reddit.png" alt="reddit" height="30" width="30" /></a>
+<!--- &nbsp;&nbsp;<a href="https://instagram.com/elisey_budnitsky" target="blank"><img align="center" src="https://i.postimg.cc/FRgZnh4D/instagram.png" alt="instagram" height="30" width="30" /></a>
+&nbsp;&nbsp;<a href="https://www.reddit.com/user/Ok_Maize_1666" target="blank"><img align="center" src="https://i.postimg.cc/TPnqpTpf/reddit.png" alt="reddit" height="30" width="30" /></a> -->
 &nbsp;&nbsp;<a href="mailto:bgs6544@gmail.com" target="blank"><img align="center" src="https://i.postimg.cc/02HC4tTR/mail.png" alt="reddit" height="30" width="30" /></a>
