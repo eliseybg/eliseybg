@@ -12,18 +12,21 @@
 <aside class="o-link-list">
   <div class="o-link-list__aside-title"><h3>New to old:</h3></div>
   <ul class="o-link-list__item-container" >
-    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Product-list">Product list</a></li>
-    <dt class="o-link-list__item">Mobile lab in BSUIR (in progress)<br>
-    With: Kotlin, Realm, Hilt, Navigation, Coroutines, Retrofit, Google Map API</dt>
+     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Relax_app">Relax app (mobile lab in university)</a></li>
+    <dt class="o-link-list__item">Daily tips program<br>
+    With: Kotlin, MVI + MVVM, OkHttp, Koin, Compose, Coroutines</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Product-list">Product list (mobile lab in university)</a></li>
+    <dt class="o-link-list__item">Goods store<br>
+    With: Kotlin, MVVM, Realm, Hilt, Navigation, Coroutines, Retrofit, Google Map API</dt>
     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Crypto">Crypto</a></li>
     <dt class="o-link-list__item">Program for tracking the rate of cryptocurrencies (in progress)<br>
     With: Kotlin, Room, Koin, Navigation, Coroutines, Retrofit</dt>
-    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Feed-the-cat">Feed the cat</a></li>
-    <dt class="o-link-list__item">Mobile lab in BSUIR<br>
-    With: Kotlin, Koin, Room, Navigation, Coroutines </dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Feed-the-cat">Feed the cat (mobile lab in university)</a></li>
+    <dt class="o-link-list__item">Game as guitar hero and feed the cat<br>
+    With: Kotlin, MVVM, Koin, Room, Navigation, Coroutines </dt>
     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Clock">Clock</a></li>
     <dt class="o-link-list__item">Default application rewritten on Compose. (unfinished)<br>
-    With: Kotlin, Compose</dt>
+    With: Kotlin, MVVM, Compose</dt>
     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Chords">Chords</a></li>
     <dt class="o-link-list__item">Program to learn chords for guitar. 
     <a href="https://play.google.com/store/apps/details?id=com.breaktime.chords"><i>in google play</i></a><br>
