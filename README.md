@@ -1,4 +1,4 @@
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/></h1>
 
 <p>Welcome to my page! </br> I'm Elisey, Android developer from <img src="https://i.postimg.cc/rsjfzMZK/belarus.png" width="13"/> <b>Minsk, Belarus</b>. </p>
 <p>👨‍🎓 I am currently a third year student. </p>
@@ -14,8 +14,7 @@
   <ul class="o-link-list__item-container" >
      <li><a class="o-link-list__item" href="https://github.com/eliseybg/Relax_app">Relax app (mobile lab in university)</a></li>
     <dt class="o-link-list__item">Daily tips program<br>
-    With: Kotlin, MVI + MVVM, OkHttp, Koin, Compose, Coroutines</dt>![image](https://user-images.githubusercontent.com/57315212/171542956-def57e54-d97d-4e8a-a03c-0d8e5957f0e5.gif)
-
+    With: Kotlin, MVI + MVVM, OkHttp, Koin, Compose, Coroutines</dt>
     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Product-list">Product list (mobile lab in university)</a></li>
     <dt class="o-link-list__item">Goods store<br>
     With: Kotlin, MVVM, Realm, Hilt, Navigation, Coroutines, Retrofit, Google Map API</dt>
@@ -42,7 +41,7 @@
     <dt class="o-link-list__item">Application for fast counting. 
     <a href="https://play.google.com/store/apps/details?id=com.counting.breaktime"><i>in google play</i></a><br>
     With: Java <br></dt>
-    <li><a class="o-link-list__item" href="https://github.com/eliseybg/counting">Fast counting</a> </li>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/counting">BSUIR English</a> </li>
     <dt class="o-link-list__item">Application for learning English words. 
     <a href="https://play.google.com/store/apps/details?id=com.breaktime.englishwords"><i>in google play</i></a><br>
     With: Java <br></dt>
