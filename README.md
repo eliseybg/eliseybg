@@ -12,39 +12,54 @@
 <aside class="o-link-list">
   <div class="o-link-list__aside-title"><h3>New to old:</h3></div>
   <ul class="o-link-list__item-container" >
-     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Relax_app">Relax app (mobile lab in university)</a></li>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Calculator">Calculator</a></li>
+    <dt class="o-link-list__item">Simple calculator with adaptive colours<br>
+    With: Kotlin, Compose, Coroutines, Material 3, Hilt, MVI</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Notes/">Notes</a></li>
+    <dt class="o-link-list__item">The application to create notes<br>
+    With: Kotlin, Compose, Navigation, Room, Coroutines, Hilt, MVI</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Classmates/">Classmates</a></li>
+    <dt class="o-link-list__item">social network<br>
+    With: Kotlin, Compose, Navigation, Retrofit, Coroutines, Kodein, MVI, Node JS, MongoDB</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Stock_market">Stock market</a></li>
+    <dt class="o-link-list__item">The application shows stock price chart and brief information about the company<br>
+    With: Kotlin, Compose, Destinations, Opencsv, Retrofit, Room, Coroutines, Coil, Hilt, MVI</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/CSStaff">CSStaf (olympiad project)</a></li>
+    <dt class="o-link-list__item">The application acted as a task at the international Olympiad<br>
+    With: Kotlin, Retrofit, Coroutines, Picasso, MVVM</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/coffee">Coffee (olympiad project)</a></li>
+    <dt class="o-link-list__item">The application acted as a task at the international Olympiad<br>
+    With: Kotlin, Retrofit, OkHttp, Coroutines, Viewpager, Picasso, MVVM</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Relax_app">Relax app (mobile lab in university)</a></li>
     <dt class="o-link-list__item">Daily tips program<br>
-    With: Kotlin, MVI + MVVM, OkHttp, Koin, Compose, Coroutines</dt>
+    With: Kotlin, OkHttp, Gson, Koin, Compose, Coil, Coroutines, Accompanist pager, Navigation, MVI</dt>
     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Product-list">Product list (mobile lab in university)</a></li>
     <dt class="o-link-list__item">Goods store<br>
-    With: Kotlin, MVVM, Realm, Hilt, Navigation, Coroutines, Retrofit, Google Map API</dt>
-    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Crypto">Crypto</a></li>
-    <dt class="o-link-list__item">Program for tracking the rate of cryptocurrencies (in progress)<br>
-    With: Kotlin, Room, Koin, Navigation, Coroutines, Retrofit</dt>
+    With: Kotlin, Realm, Hilt, Navigation, Coroutines, Retrofit, Jsoup, Google Map API, MVVM</dt>
     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Feed-the-cat">Feed the cat (mobile lab in university)</a></li>
     <dt class="o-link-list__item">Game as guitar hero and feed the cat<br>
-    With: Kotlin, MVVM, Koin, Room, Navigation, Coroutines </dt>
+    With: Kotlin, Koin, Room, Navigation, Coroutines, MVVM </dt>
     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Clock">Clock</a></li>
-    <dt class="o-link-list__item">Default application rewritten on Compose. (unfinished)<br>
-    With: Kotlin, MVVM, Compose</dt>
+    <dt class="o-link-list__item">Default application rewritten on Compose (unfinished)<br>
+    With: Kotlin, Compose, Koin, Room, Gson, Coroutines, MVVM</dt>
     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Chords">Chords</a></li>
-    <dt class="o-link-list__item">Program to learn chords for guitar. 
+    <dt class="o-link-list__item">Program to learn chords for guitar<br>
     <a href="https://play.google.com/store/apps/details?id=com.breaktime.chords"><i>in google play</i></a><br>
-    With: Java <br></dt>
-    <li><a class="o-link-list__item" href="https://github.com/eliseybg/OOP_PROJECT">Tracker (OOP project in university)</a></li>
-    <dt class="o-link-list__item">Phone send signals to the computer and computer change sound, stop or resume music or film<br>
-    With: Java</dt>
+    With: Java, Luolc emoji-rain <br></dt>
     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Programming_quiz">Programming quiz</a></li>
     <dt class="o-link-list__item">Programming language quiz program<br>
     With: Java</dt>
-    <li><a class="o-link-list__item" href="https://github.com/eliseybg/counting">Fast counting</a></li>
-    <dt class="o-link-list__item">Application for fast counting. 
-    <a href="https://play.google.com/store/apps/details?id=com.counting.breaktime"><i>in google play</i></a><br>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/businessman">Businessman</a> </li>
+    <dt class="o-link-list__item">Businessman simulator (unfinished)<br>
     With: Java <br></dt>
-    <li><a class="o-link-list__item" href="https://github.com/eliseybg/counting">BSUIR English</a> </li>
-    <dt class="o-link-list__item">Application for learning English words. 
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Englishwords">BSUIR English</a> </li>
+    <dt class="o-link-list__item">Application for learning English words <br>
     <a href="https://play.google.com/store/apps/details?id=com.breaktime.englishwords"><i>in google play</i></a><br>
     With: Java <br></dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/counting">Fast counting</a></li>
+    <dt class="o-link-list__item">Application for fast counting <br>
+    <a href="https://play.google.com/store/apps/details?id=com.counting.breaktime"><i>in google play</i></a><br>
+    With: Java, Vihtarb tooltip <br></dt>
   </ul>
 </aside>
 
@@ -66,6 +81,9 @@
     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Checkers">Checkers</a></li>
     <dt class="o-link-list__item">Desktop checkers game. <br>
     With: C++, WinApi</dt>
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Classmates/">Classmates</a></li>
+    <dt class="o-link-list__item">Social media. <br>
+    With: Kotlin, Compose, Kodein, Retrofit, NodeJS</dt>
     ...
   </ul>
 </aside>
