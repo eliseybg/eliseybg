@@ -12,6 +12,9 @@
 <aside class="o-link-list">
   <div class="o-link-list__aside-title"><h3>New to old:</h3></div>
   <ul class="o-link-list__item-container" >
+    <li><a class="o-link-list__item" href="https://github.com/eliseybg/Weather">Weather</a></li>
+    <dt class="o-link-list__item">Application is for showing today's weather<br>
+    With: Kotlin, Compose, Coroutines, Hilt, Retrofit, Moshi, Location Services, MVI</dt>
     <li><a class="o-link-list__item" href="https://github.com/eliseybg/Calculator">Calculator</a></li>
     <dt class="o-link-list__item">Simple calculator with adaptive colours<br>
     With: Kotlin, Compose, Coroutines, Material 3, Hilt, MVI</dt>
